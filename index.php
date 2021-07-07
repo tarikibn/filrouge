@@ -7,10 +7,10 @@
     <title>Document</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.min.css">
-    <link rel="stylesheet" href="css/steyle.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-<!-- navbar start  -->
+                                    <!-- navbar start  -->
 <nav class="navbar navbar-expand-sm navbar-light bg-light  ">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.php"> school academy</a>
@@ -53,8 +53,8 @@
 </nav>
 
 
-<!-- end navbar -->
- <!-- star le milieau -->
+                                              <!-- end navbar -->
+                                              <!-- star le milieau -->
  <div class="container-fluid">
 <div class="row">
     <div class="col col-lg-6 ">
@@ -75,28 +75,209 @@
 </div>
 
 
- <!-- end melieu -->
+                                    <!-- end melieu -->
+
+
+                                    <!-- start bannier -->
 
  <div class="container-fluid bg-danger" >
- <div class="row footer">
-            <div class="col-sm ">
-            <h5 >  <i class="fas fa-book-open"></i> 100+ COURS EN LIGNE</h5>
+      <div class="row footer">
+                  <div class="col-sm ">
+                  <h5 >  <i class="fas fa-book-open"></i> 100+ COURS EN LIGNE</h5>
 
+                  </div>
+                  <div class="col-sm ">
+              <h5 ><i class="fas fa-users"></i>  instructeurs experts</h5>
+                  </div>
+                  <div class="col-sm ">
+              <h5 > <i class="far fa-keyboard"></i> accès à vie</h5>
+                  </div>
+                  <div class="col-sm ">
+              <h5 > <i class="fas fa-wallet"></i> garantie de remboursement</h5>
+                  </div>
+
+
+      </div>
+
+ </div>
+                                      <!-- end  bannier -->
+
+
+                                        <!-- les carte  -->
+
+
+  
+ <div class="container">
+    
+   <div class="row row-cols-1 row-cols-md-3 "> 
+         <div class="col ">
+
+          <!-- 1-->
+          <div class="card  border-success" style="width: 18rem;">
+            <img src="..." class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+        
             </div>
-            <div class="col-sm ">
-        <h5 ><i class="fas fa-users"></i>  instructeurs experts</h5>
+            <div class="card-footer   border-success">
+             <p class="card-text  d-inline "> prix : <small>300 dh</small></p>
+             <a class="btn btn-primary float-left "  style="margin-left: 70px;" href="#" >inscrire</a>
+             
             </div>
-            <div class="col-sm ">
-        <h5 > <i class="far fa-keyboard"></i> accès à vie</h5>
             </div>
-            <div class="col-sm ">
-        <h5 > <i class="fas fa-wallet"></i> garantie de remboursement</h5>
-            </div>
+   
+      
+
+          </div>
+          <!-- 2 -->
+          <div class="col ">
+
+
+<div class="card  border-success" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+
+  </div>
+  <div class="card-footer   border-success">
+   <p class="card-text  d-inline "> prix : <small>300 dh</small></p>
+   <a class="btn btn-primary float-left "  style="margin-left: 70px;" href="#" >inscrire</a>
+   
+  </div>
+  </div>
+
+
+
+</div>
+<!-- 3 -->
+      <div class="col  ">
+
+
+      <div class="card  border-success" style="width: 18rem;">
+        <img src="..." class="card-img-top" alt="...">
+        <div class="card-body">
+          <h5 class="card-title">Card title</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+
+        </div>
+        <div class="card-footer   border-success">
+        <p class="card-text  d-inline "> prix : <small>300 dh</small></p>
+        <a class="btn btn-primary float-left "  style="margin-left: 70px;" href="#" >inscrire</a>
+        
+        </div>
+        </div>
+
+
+
+      </div>
+
+      <!-- 4 -->
+      <div class="col  ">
+
+
+<div class="card  border-success" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+
+  </div>
+  <div class="card-footer   border-success">
+  <p class="card-text  d-inline "> prix : <small>300 dh</small></p>
+  <a class="btn btn-primary float-left "  style="margin-left: 70px;" href="#" >inscrire</a>
+  
+  </div>
+  </div>
+
+
+
+</div>
+ <!-- 5 -->
+ <div class="col  ">
+
+
+<div class="card  border-success" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+
+  </div>
+  <div class="card-footer   border-success">
+  <p class="card-text  d-inline "> prix : <small>300 dh</small></p>
+  <a class="btn btn-primary float-left "  style="margin-left: 70px;" href="#" >inscrire</a>
+  
+  </div>
+  </div>
+
+
+
+</div>
+  <!-- 6 -->
+  <div class="col  ">
+
+
+<div class="card  border-success" style="width: 18rem;">
+  <img src="..." class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+
+
+  </div>
+  <div class="card-footer   border-success">
+  <p class="card-text  d-inline "> prix : <small>300 dh</small></p>
+  <a class="btn btn-primary float-left "  style="margin-left: 70px;" href="#" >inscrire</a>
+  
+  </div>
+  </div>
+
 
 
 </div>
 
+
+
+</div>
+
+
+    
+ 
+ 
  </div>
+
+                                        <!-- start contact -->
+
+<div class="container">
+<div class="row">
+                  <div class="col col-6">
+                  <img   class="contact" src="./image/contact.png"  alt="contact">
+                  </div>
+
+                  <div class="col  col-6">
+                  <form method="post" action="">
+                  <input type="text" class="form-control" placeholder="entre votre nom" name="nom"  >  <br>
+                  <input type="text" class="form-control" placeholder="entre votre prenom" name="prenom"  > <br>
+                  <input type="email" class="form-control" placeholder="entre votre email" name="email"  > <br>
+                  <textarea class="form-control"  rows="3">  </textarea> <br>
+                  <input type="submit" class="btn btn-primary" value="envoyez"> <br>
+                  
+                  </form>
+                  
+                  </div>
+</div>
+
+</div>
+
+
+                                        <!-- end contact -->
 
 
 
