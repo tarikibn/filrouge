@@ -1,0 +1,30 @@
+body{
+    overflow-x: hidden;
+}
+
+.navbar-brand{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2em;
+    font-weight: bold;
+}
+.custom-nav-item:hover{
+background-color:rgb(255, 174, 0);
+border: solid red 1px;
+border-radius: 10px;
+
+}
+.image{
+    height:100%;
+    width: 100%;
+}
+.contenu{
+  
+margin-top: 20%;
+    text-align: center;
+  
+}
+
+.footer{
+    color: white;
+    padding: 10px;
+}
